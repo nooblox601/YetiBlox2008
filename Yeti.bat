@@ -33,9 +33,9 @@
 ::978f952a14a936cc963da21a135fa983
 @echo off
 
-Echo Yeti 0.1
+Echo Yeti 0.2
 pause
-Echo Starting Roblox.exe
-Start Roblox.exe
+Echo Start Roblox.exe?
+Start C:\Users\%USERNAME%\Downloads\YetiBloxClient\Roblox.exe
 pause 
 exit
